@@ -14,12 +14,23 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   *{
-    font-size: large;
+    font-size: 30px;
     background-image: url(background2.jpg);
     background-size: cover;
   
   }
   header{
     color: blanchedalmond;
+    height: 70px;
+    text-decoration: none;
+  
+    
+  }
+  nav li{
+    display: inline-block;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
   }
   
