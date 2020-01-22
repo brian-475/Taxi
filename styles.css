@@ -1,5 +1,8 @@
 
-  
+  h1{
+    font-size: xx-large;
+    font-style: italic;
+  }
   h2{
     font-style: italic;
     font-weight: 300;
@@ -14,7 +17,9 @@
     font-size: large;
     background-image: url(background2.jpg);
     background-size: cover;
+  
   }
   header{
     color: blanchedalmond;
   }
+  
